@@ -4,4 +4,4 @@ This prototype drone is used to spray pesticides on plants and trees. The Flight
 
 # Quadcopter
 
-<img src="=images/drone_side_view_2.jpg"> 
+<img src="images/drone_side_view_2.jpg"> 
